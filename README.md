@@ -1,2 +1,2 @@
 # TrialRepo
-Repository for tests
+Repository for tests. First use with Git/Github!
